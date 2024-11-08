@@ -1,0 +1,8 @@
+[01-Apr-2020 06:54:57 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/yourbrxf/public_html/emergency-dental-template/PHPMailer/PHPMailerAutoload.php on line 45
+[01-Apr-2020 06:54:57 America/New_York] PHP Notice:  Undefined variable: content in /home/yourbrxf/public_html/emergency-dental-template/mail.php on line 63
+[01-Apr-2020 06:56:43 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/yourbrxf/public_html/emergency-dental-template/PHPMailer/PHPMailerAutoload.php on line 45
+[01-Apr-2020 06:56:43 America/New_York] PHP Notice:  Undefined variable: content in /home/yourbrxf/public_html/emergency-dental-template/mail.php on line 63
+[20-May-2020 10:10:27 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/yourbrxf/public_html/roofing-template/PHPMailer/PHPMailerAutoload.php on line 45
+[20-May-2020 10:10:27 America/New_York] PHP Notice:  Undefined variable: content in /home/yourbrxf/public_html/roofing-template/mail.php on line 63
+[22-Aug-2020 22:33:03 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/yourbrxf/public_html/plumbing-template-lpotmc/PHPMailer/PHPMailerAutoload.php on line 45
+[22-Aug-2020 22:33:03 America/New_York] PHP Notice:  Undefined variable: content in /home/yourbrxf/public_html/plumbing-template-lpotmc/mail.php on line 63
